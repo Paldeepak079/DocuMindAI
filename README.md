@@ -290,8 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues? Here's how to get help:
 
-- 📧 **Email**: support@documind.ai
-- 💬 **Discord**: Join our community
+- 📧 **Email**: paldeepak079@gmail.com
 - 📝 **Issues**: [GitHub Issues](https://github.com/yourusername/documind-ai/issues)
 - 📚 **Docs**: [Full Documentation](https://docs.documind.ai)
 
@@ -299,7 +298,7 @@ Having issues? Here's how to get help:
 
 <div align="center">
 
-**Made with ❤️ by the DocuMind AI Team**
+**Made with ❤️ by the MADTech**
 
 ⭐ Star us on GitHub if this project helped you!
 
