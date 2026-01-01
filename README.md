@@ -1,8 +1,8 @@
 # 🧠 DocuMind AI - AI-Powered Code Documentation Generator
 
 <div align="center">
-  
-![DocuMind AI Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
+  <img width="1898" height="971" alt="Screenshot 2025-12-28 170726" src="https://github.com/user-attachments/assets/5c37f036-b7b2-4d61-903c-1319085fa580" />
+
 
 **Transform your source code into professional, comprehensive documentation in seconds.**
 
